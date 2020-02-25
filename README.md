@@ -3,5 +3,5 @@
 ```
 mvn clean package
 ./build.sh
-curl localhost:8080/demo/hello
+curl localhost:8080/rest/hello
 ```
